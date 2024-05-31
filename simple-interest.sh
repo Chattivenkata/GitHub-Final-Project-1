@@ -1,3 +1,4 @@
+#GitHub Username <Chattivenkata>
 #calculation of simple interest
 # Principal amount - P
 #R is rate of interest
